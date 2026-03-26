@@ -15,6 +15,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-ahmad-ai/)
 [![X](https://img.shields.io/badge/Follow-@sufianjellani-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sufianjellani)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sufianjellani@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-1a1b27?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf)
+
+**Full-Stack AI Engineer** — production ML, multi-agent RAG, and cloud-native web on **AWS** & **Azure**.
 
 English (professional) · Urdu
 
@@ -27,7 +30,7 @@ English (professional) · Urdu
 | For **clients & hiring teams** | For **engineers & collaborators** |
 |-------------------------------|-----------------------------------|
 | I design and ship **reliable web products**, **data/ML workflows**, and **AI features** suited for **production** — with documentation and handover that match the code. | Stack: **Python / TypeScript**, **React & Next.js**, **FastAPI & Django**, **Azure & AWS**, plus **LLM/voice** tooling (RAG, agents, vector DBs, voice APIs). |
-| **Start here:** [Portfolio](https://sufyanahmad.vercel.app/) → then [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) or [email](mailto:Sufianjellani@gmail.com) with your goal and timeline. | **Start here:** open a focused **issue** or discussion on a repo; I’m open to collaborations with **clear scope**. |
+| **Start here:** [Portfolio](https://sufyanahmad.vercel.app/) · [**Resume (PDF)**](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf) → then [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) or [email](mailto:Sufianjellani@gmail.com) with your goal and timeline. | **Start here:** open a focused **issue** or discussion on a repo; I’m open to collaborations with **clear scope**. |
 
 **Organization:** Acme-one · **Location:** Lahore, Pakistan  
 
@@ -38,6 +41,7 @@ English (professional) · Urdu
 ## Table of contents
 
 - [At a glance](#at-a-glance)
+- [Experience & background](#experience--background)
 - [How I work (engineering & collaboration)](#how-i-work-engineering--collaboration)
 - [What I build (services & domains)](#what-i-build-services--domains)
 - [Quick tech signals](#quick-tech-signals)
@@ -50,6 +54,28 @@ English (professional) · Urdu
 - [Connect](#connect)
 - [Open source & contributions](#open-source--contributions)
 - [A little more about me](#a-little-more-about-me)
+
+---
+
+## Experience & background
+
+Full-stack AI engineer focused on **machine learning**, **cloud**, and **modern web** — shipping **multi-agent RAG**, **LangChain / LangGraph**, **MCP-aware** tooling, and **Microsoft 365**–integrated products where the problem needs it.
+
+### Experience
+
+| Role | Organization | Period | Focus |
+|------|----------------|--------|--------|
+| **AI Engineer** | Acme-one | Mar 2025 – Present | **AIIM ONE** (agentic platform: LangGraph RAG, Next.js, FastAPI, PostgreSQL, Qdrant), SaaS onboarding automation, **Talent-one** (Microsoft HR / screening), **Order Circle** (B2B support agents), **PreGrade Pro** (OpenCV + full stack) |
+| **Data Science Intern** | Devsinc | Sep 2024 – Dec 2024 | Deep learning pipelines — **BERT**, **GPT**, **GANs**, **RAG**, healthcare ML, recommenders, **Streamlit** |
+
+### Education & recognition
+
+- **BSc Software Engineering** — National Textile University (2020–2024)  
+- **FYP Display Award (2024)** — **Hellodara.ai** — AI-powered CRM (NLP, lead scoring, sentiment; Vue / Laravel / MySQL). [See Projects on portfolio](https://sufyanahmad.vercel.app/#projects).
+
+### Also strong on
+
+CI/CD (**GitHub Actions**), **Vercel** / static hosting, **Docker**, **Graph** APIs, **Vue** & **Laravel** (e.g. Hellodara), **MySQL**, **Firebase** / **Supabase**, automation (**N8n**, Langflow-style flows), **Azure AI** agents and voice (**STT/TTS**) — aligned with [portfolio highlights](https://sufyanahmad.vercel.app/).
 
 ---
 
@@ -74,7 +100,8 @@ English (professional) · Urdu
 | **ML & data** | **PyTorch**, **TensorFlow**, **Scikit-learn**, **Pandas**, **MLflow**, **Power BI** — from exploration to repeatable workflows. |
 | **AI products** | **RAG**, **LangChain** / **LangGraph**, **MCP**, **Qdrant**, LLM workflows with room to **measure quality**. |
 | **Voice & conversational** | **Vapi**, **Retell AI**, **ElevenLabs** — agents, TTS, call-style flows when the product needs them. |
-| **Cloud & delivery** | **Azure**, **AWS**, **Docker**, **Kubernetes** — builds meant to deploy, not only run locally. |
+| **Enterprise & Microsoft** | **Microsoft 365**, **SharePoint**, **Microsoft Graph** — HR and workflow products (e.g. Talent-one), integrations and automation. |
+| **Cloud & delivery** | **Azure**, **AWS**, **Docker**, **Kubernetes**, **GitHub Actions**, **Vercel** — builds meant to deploy, not only run locally. |
 
 Not sure your fit is listed? Reach out anyway — I take work where impact and scope are clear.
 
@@ -107,6 +134,7 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 | **Web** | React, Next.js, TypeScript, Tailwind CSS, Material UI, Node.js |
 | **Backend** | FastAPI, Django, PostgreSQL, Supabase, Redis |
 | **Cloud & Ops** | Azure, AWS, Docker, Kubernetes |
+| **Enterprise** | Microsoft 365, Graph, SharePoint, N8n |
 
 ---
 
@@ -174,6 +202,7 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 | **CSS3** | 4+ yrs | Responsive layout, motion |
 | **Tailwind CSS** | 2+ yrs | Design systems, utilities |
 | **Material UI** | 2+ yrs | Enterprise React UI |
+| **Vue.js** | — | Production CRM (Hellodara.ai) |
 
 </details>
 
@@ -186,7 +215,9 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 | **FastAPI** | 2+ yrs | ML serving, high-performance APIs |
 | **Django** | 2+ yrs | Full-featured Python web apps |
 | **PostgreSQL** | 2+ yrs | Modeling, indexing, production SQL |
+| **MySQL** | — | Laravel / CRM-scale apps |
 | **Supabase** | 1+ yr | Auth, Postgres, realtime |
+| **Laravel** | — | Full-stack APIs (e.g. Hellodara.ai) |
 
 </details>
 
@@ -199,6 +230,7 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 | **AWS** | 2+ yrs | S3, EC2, Lambda, SageMaker |
 | **Docker** | 2+ yrs | Containers, multi-stage builds |
 | **Kubernetes** | 1+ yr | Orchestration, scaling |
+| **GitHub Actions** | — | CI/CD pipelines |
 
 </details>
 
@@ -219,7 +251,7 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 
 ## Featured work
 
-### Portfolio — personal site
+### Portfolio — this site
 
 **React**, **TypeScript**, **Vite**, **Tailwind CSS** — responsive UI, dark/light theme, SEO (meta + structured data), blog, certifications, contact flow, analytics hooks, performance-conscious build.
 
@@ -229,6 +261,21 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 | **Source** | [github.com/Sufyan009/Portfolio](https://github.com/Sufyan009/Portfolio) |
 
 Pin this repo on your profile (**Customize your pins**) so it appears above your contribution graph.
+
+### Selected products & builds
+
+Same items as on [my portfolio Projects section](https://sufyanahmad.vercel.app/) — condensed for GitHub:
+
+| Project | Stack / theme | Link |
+|--------|----------------|------|
+| **AIIM ONE** | Agentic workflow platform — LangGraph RAG, Next.js, FastAPI, PostgreSQL, Qdrant, Gemini/GPT, Azure, Docker, GitHub Actions | [aiimone.com](https://www.aiimone.com/) |
+| **Hellodara.ai** | FYP Display Award — NLP CRM, Vue 3, Inertia, Laravel, MySQL, real-time messaging | [Portfolio — Projects](https://sufyanahmad.vercel.app/#projects) |
+| **SaaS onboarding** | Multi-tenant signup/login automation, admin dashboard, Next.js, FastAPI | [flowbot-jet.vercel.app](https://flowbot-jet.vercel.app/) |
+| **Talent-one** | Microsoft-based HR / AI screening | [Azure Static Web Apps preview](https://wonderful-desert-0d8b0590f-preview.eastus2.1.azurestaticapps.net/) |
+| **Order Circle** | B2B support & onboarding agents | [ordercircle.com](https://ordercircle.com/) |
+| **PreGrade Pro** | Card grading — Next.js, Supabase, OpenCV | [pregradepro.com](https://www.pregradepro.com/) |
+
+More repos and demos: explore pinned repos and [github.com/Sufyan009](https://github.com/Sufyan009).
 
 ---
 
@@ -251,7 +298,16 @@ Pin this repo on your profile (**Customize your pins**) so it appears above your
 
 ## Certifications & credentials
 
-**[View certifications →](https://sufyanahmad.vercel.app/certifications)**
+Headline credentials (verify dates & IDs on the [certifications page](https://sufyanahmad.vercel.app/certifications)):
+
+- **AWS Certified Machine Learning – Specialty** — Amazon Web Services  
+- **Google Cloud Professional Data Engineer** — Google Cloud  
+- **TensorFlow Developer Certificate** — TensorFlow  
+- **Microsoft Certified: Azure AI Engineer Associate** — Microsoft  
+
+Plus ongoing learning: **DeepLearning.AI**, **Google** data & PM foundations, **IBM** prompt engineering, **V3 Solution** data science, and more — all listed with details on the site.
+
+**[Full list & credentials →](https://sufyanahmad.vercel.app/certifications)**
 
 ---
 
@@ -265,11 +321,14 @@ Pin this repo on your profile (**Customize your pins**) so it appears above your
 
 ## Connect
 
-**Preferred for professional outreach:** [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) · [Portfolio](https://sufyanahmad.vercel.app/) · [Email](mailto:Sufianjellani@gmail.com)
+**Preferred for professional outreach:** [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) · [Portfolio](https://sufyanahmad.vercel.app/) · [**Resume (PDF)**](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf) · [Email](mailto:Sufianjellani@gmail.com)
+
+Typical response time for serious inquiries: **within 24 hours** (PKT).
 
 | Channel | Link |
 |---------|------|
 | **Portfolio** | https://sufyanahmad.vercel.app/ |
+| **Resume** | [Sufyan-Ahmad.pdf](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf) |
 | **LinkedIn** | https://www.linkedin.com/in/sufyan-ahmad-ai/ |
 | **X (Twitter)** | https://twitter.com/sufianjellani |
 | **Email** | [Sufianjellani@gmail.com](mailto:Sufianjellani@gmail.com) |
