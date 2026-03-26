@@ -1,83 +1,85 @@
 <!--
-  Profile README — paste as README.md in repo: https://github.com/Sufyan009/Sufyan009
+  Profile README — paste as README.md in: https://github.com/Sufyan009/Sufyan009
   (Repository name MUST match your GitHub username exactly.)
 -->
 
 <div align="center">
 
-# Sufyan Ahmad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:1e3a5f&height=125&section=header&text=Sufyan%20Ahmad&fontSize=36&fontColor=fff&fontAlignY=36&desc=AI%20%C2%B7%20Full-stack%20%C2%B7%20ML&descSize=14&descAlignY=54&descAlign=50" alt="" width="100%" />
 
-**Software engineer and wordsmith — blending code with language for impact.**
+<br />
 
-*he/him* · Lahore, Pakistan (UTC+5 · **PKT**) · [@Sufyan009](https://github.com/Sufyan009)
+### Software engineer and wordsmith — blending code with language for impact.
+
+*he/him* · Lahore, Pakistan · **PKT (UTC+5)** · [@Sufyan009](https://github.com/Sufyan009)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sufyanahmad.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sufyanahmad.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sufyan--ahmad--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-ahmad-ai/)
-[![X](https://img.shields.io/badge/X-@sufianjellani-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sufianjellani)
-[![Email](https://img.shields.io/badge/Email-Sufianjellani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sufianjellani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-ahmad-ai/)
+[![X](https://img.shields.io/badge/Follow-@sufianjellani-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sufianjellani)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sufianjellani@gmail.com)
 
-**Languages:** English (professional) · Urdu
+English (professional) · Urdu
 
 </div>
 
 ---
 
+<img align="right" width="200" alt="Sufyan Ahmad — GitHub profile photo" src="https://github.com/Sufyan009.png" />
+
 ## At a glance
 
 | For **clients & hiring teams** | For **engineers & collaborators** |
 |-------------------------------|-----------------------------------|
-| I design and ship **reliable web products**, **data/ML workflows**, and **AI features** you can actually run in production — with documentation and handover that match the code. | Stack spans **Python / TypeScript**, **React & Next.js**, **FastAPI & Django**, **cloud (Azure, AWS)**, and **LLM/voice** tooling (RAG, agents, vector DBs, voice APIs). |
-| **Best first step:** [Portfolio](https://sufyanahmad.vercel.app/) → then [email](mailto:Sufianjellani@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) with your goal and timeline. | **Best first step:** open an issue or DM on a repo you care about; I’m open to **focused collaborations** and clear scope. |
+| I design and ship **reliable web products**, **data/ML workflows**, and **AI features** suited for **production** — with documentation and handover that match the code. | Stack: **Python / TypeScript**, **React & Next.js**, **FastAPI & Django**, **Azure & AWS**, plus **LLM/voice** tooling (RAG, agents, vector DBs, voice APIs). |
+| **Start here:** [Portfolio](https://sufyanahmad.vercel.app/) → then [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) or [email](mailto:Sufianjellani@gmail.com) with your goal and timeline. | **Start here:** open a focused **issue** or discussion on a repo; I’m open to collaborations with **clear scope**. |
 
-**Organization:** Acme-one · **Location:** Lahore, Pakistan
+**Organization:** Acme-one · **Location:** Lahore, Pakistan  
+
+<sub>Views and content here are **my own** and not necessarily those of my employer.</sub>
+
+<br clear="right" />
 
 ---
 
 ## Table of contents
 
-- [How I work](#how-i-work-engineering--collaboration)
-- [What I build](#what-i-build-services--domains)
-- [Tech stack](#tech-stack-full-catalog)
-- [Featured work](#featured-work)
-- [GitHub activity](#github-activity)
-- [Certifications & credentials](#certifications--credentials)
-- [Connect](#connect)
-- [Open source & contributions](#open-source--contributions)
+- [At a glance](#at-a-glance) · [How I work](#how-i-work-engineering--collaboration) · [What I build](#what-i-build-services--domains)
+- [Tech highlights](#quick-tech-signals) · [Focus areas](#what-i-work-on-detail) · [Full stack catalog](#tech-stack-full-catalog)
+- [Featured work](#featured-work) · [GitHub activity](#github-activity) · [Certifications](#certifications--credentials)
+- [Connect](#connect) · [Open source](#open-source--contributions) · [More about me](#a-little-more-about-me)
 
 ---
 
 ## How I work (engineering & collaboration)
 
-Principles I apply on real projects — the same ones I want visible when someone lands on my profile:
+- **Clarity first** — requirements, trade-offs, and docs so the next person isn’t guessing.
+- **Production mindset** — security and privacy by design; no secrets in repos; sensible validation and errors.
+- **Performance awareness** — latency, cost, and UX, especially on **AI and data** paths.
+- **Accessible UI** — semantic HTML and keyboard-friendly patterns where I own the frontend.
+- **Honest scoping** — ship something solid rather than a fragile demo.
 
-- **Clarity first** — requirements, trade-offs, and docs written so the next person (or future me) isn’t guessing.
-- **Production mindset** — security and privacy considered by design; secrets never in repos; sensible validation and error handling.
-- **Performance awareness** — measure what matters (latency, cost, UX), especially for **AI and data** paths.
-- **Accessible & maintainable UI** — semantic HTML, keyboard-friendly patterns where I own the frontend.
-- **Honest scoping** — I’d rather under-promise and ship something solid than oversell a fragile demo.
-
-**Collaboration:** async-friendly across time zones (**PKT / UTC+5**). For paid or serious engagements, a short intro (goal, stack, deadline, budget band if any) gets the fastest useful reply.
+**Collaboration:** async-friendly (**PKT / UTC+5**). For serious inquiries, a short note with **goal**, **stack**, **timeline**, and any **constraints** (compliance, budget, etc.) gets the most useful reply.
 
 ---
 
 ## What I build (services & domains)
 
-| Domain | Examples of what I deliver |
-|--------|----------------------------|
-| **Web applications** | SPAs and full-stack apps with **React**, **Next.js**, **TypeScript**, solid UX and SEO foundations. |
-| **APIs & backends** | **FastAPI**, **Django**, **Node.js** — REST/JSON APIs, auth-aware flows, integration with databases and queues. |
-| **ML & data** | Notebooks to pipelines: **PyTorch**, **TensorFlow**, **Scikit-learn**, **Pandas**, experiment tracking (**MLflow**), reporting (**Power BI**). |
-| **AI products** | **RAG**, **LangChain** / **LangGraph**, **MCP**, vector search (**Qdrant**), LLM orchestration with evaluability in mind. |
-| **Voice & conversational** | **Vapi**, **Retell AI**, **ElevenLabs** — voice agents, TTS, call-style flows where product needs it. |
-| **Cloud & delivery** | **Azure**, **AWS**, **Docker**, **Kubernetes** — deployable, observable builds rather than “works on my machine.” |
+| Domain | What I deliver |
+|--------|----------------|
+| **Web applications** | SPAs and full-stack apps with **React**, **Next.js**, **TypeScript**, strong UX and SEO foundations. |
+| **APIs & backends** | **FastAPI**, **Django**, **Node.js** — REST/JSON APIs, auth-aware flows, databases and queues. |
+| **ML & data** | **PyTorch**, **TensorFlow**, **Scikit-learn**, **Pandas**, **MLflow**, **Power BI** — from exploration to repeatable workflows. |
+| **AI products** | **RAG**, **LangChain** / **LangGraph**, **MCP**, **Qdrant**, LLM workflows with room to **measure quality**. |
+| **Voice & conversational** | **Vapi**, **Retell AI**, **ElevenLabs** — agents, TTS, call-style flows when the product needs them. |
+| **Cloud & delivery** | **Azure**, **AWS**, **Docker**, **Kubernetes** — builds meant to deploy, not only run locally. |
 
-If your need isn’t listed, still reach out — I take on work where the fit and impact are clear.
+Not sure your fit is listed? Reach out anyway — I take work where impact and scope are clear.
 
 ---
 
 ## Quick tech signals
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -95,7 +97,7 @@ If your need isn’t listed, still reach out — I take on work where the fit an
 
 | Area | Focus |
 |------|--------|
-| **AI & LLMs** | LangChain, LangGraph, MCP servers, RAG, Qdrant |
+| **AI & LLMs** | LangChain, LangGraph, MCP, RAG, Qdrant |
 | **Voice** | Vapi, Retell AI, ElevenLabs |
 | **ML** | PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, Vertex AI, MLflow, OpenCV |
 | **Data** | Pandas, NumPy, Spark, Power BI, Seaborn, Matplotlib |
@@ -216,14 +218,14 @@ If your need isn’t listed, still reach out — I take on work where the fit an
 
 ### Portfolio — personal site
 
-Production-style portfolio: **React**, **TypeScript**, **Vite**, **Tailwind CSS** — responsive UI, dark/light theme, SEO (meta + structured data), blog, certifications showcase, contact flow, analytics hooks, performance-conscious build.
+**React**, **TypeScript**, **Vite**, **Tailwind CSS** — responsive UI, dark/light theme, SEO (meta + structured data), blog, certifications, contact flow, analytics hooks, performance-conscious build.
 
 | | |
 |--|--|
 | **Live** | [sufyanahmad.vercel.app](https://sufyanahmad.vercel.app/) |
 | **Source** | [github.com/Sufyan009/Portfolio](https://github.com/Sufyan009/Portfolio) |
 
-**Tip:** Pin this repository on your GitHub profile (**Profile → Customize your pins**) so visitors see it immediately above your contribution graph.
+Pin this repo on your profile (**Customize your pins**) so it appears above your contribution graph.
 
 ---
 
@@ -231,22 +233,20 @@ Production-style portfolio: **React**, **TypeScript**, **Vite**, **Tailwind CSS*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufyan009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sufyan009 GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages on GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufyan009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sufyan009 — GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sufyan009 — most used languages on GitHub" />
 
-<img src="https://streak-stats.demolab.com/?user=Sufyan009&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=Sufyan009&theme=tokyonight&hide_border=true" alt="Sufyan009 — contribution streak" />
 
-[![GitHub trophies for Sufyan009](https://github-profile-trophy.vercel.app/?username=Sufyan009&theme=tokyonight&no-frame=true&column=7)](https://github.com/Sufyan009)
+[![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=Sufyan009&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)](https://github.com/Sufyan009)
 
 </div>
 
-*Third-party cards reflect **public** activity only and may rate-limit or fail briefly — refresh if empty.*
+<sub>Cards show <strong>public</strong> activity only. Third-party services may rate-limit; refresh if a card is blank.</sub>
 
 ---
 
 ## Certifications & credentials
-
-Formal credentials and badges live on my portfolio (kept up to date there):
 
 **[View certifications →](https://sufyanahmad.vercel.app/certifications)**
 
@@ -254,48 +254,56 @@ Formal credentials and badges live on my portfolio (kept up to date there):
 
 ## Currently exploring
 
-- Stronger **agent** and **evaluation** patterns for production LLM systems  
-- End-to-end **voice** UX (latency, tooling, telephony)  
-- **Observability** and **cost** discipline for AI services in the wild  
+- **Agent** workflows and **evaluation** for production LLM systems  
+- **Voice** UX end-to-end (latency, tooling, telephony)  
+- **Observability** and **cost** discipline for AI services  
 
 ---
 
 ## Connect
+
+**Preferred for professional outreach:** [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) · [Portfolio](https://sufyanahmad.vercel.app/) · [Email](mailto:Sufianjellani@gmail.com)
 
 | Channel | Link |
 |---------|------|
 | **Portfolio** | https://sufyanahmad.vercel.app/ |
 | **LinkedIn** | https://www.linkedin.com/in/sufyan-ahmad-ai/ |
 | **X (Twitter)** | https://twitter.com/sufianjellani |
-| **Facebook** | https://www.facebook.com/sj.rana6 |
-| **Instagram** | https://www.instagram.com/sj_rana_/ |
 | **Email** | [Sufianjellani@gmail.com](mailto:Sufianjellani@gmail.com) |
 
-I’m open to **select collaborations**, **well-scoped consulting**, and **strong full-time fits** in AI/ML and full-stack engineering — a short, specific message gets a substantive reply.
+<details>
+<summary><strong>Elsewhere (personal)</strong></summary>
+
+| Platform | Link |
+|----------|------|
+| **Facebook** | https://www.facebook.com/sj.rana6 |
+| **Instagram** | https://www.instagram.com/sj_rana_/ |
+
+</details>
+
+Open to **select collaborations**, **well-scoped consulting**, and **strong full-time roles** in AI/ML and full-stack engineering — specific messages get specific replies.
 
 ---
 
 ## Open source & contributions
 
-- **Issues & PRs:** welcome on my public repos when the scope is clear; please describe **expected behavior**, **steps to reproduce**, and **environment** where relevant.  
-- **Security:** please do **not** open public issues for vulnerabilities — email me directly instead.  
-- **Code style:** match the existing project; run project **lint** / **tests** before larger PRs when those exist.
+- **Issues & PRs:** welcome when scope is clear; include **expected vs actual behavior**, **reproduction steps**, and **environment** if relevant.  
+- **Security:** do **not** disclose vulnerabilities in public issues — use **email** instead.  
+- **Style:** follow the repo; run **lint** / **tests** before larger PRs when available.
 
 ---
 
 ## A little more about me
 
-- I treat **documentation and READMEs** as part of the product — same quality bar as implementation.  
-- **Wordsmith** habits: naming, messaging, and making technical ideas legible to mixed audiences.  
+- **Documentation** and **READMEs** are part of the product — same bar as the code.  
+- **Wordsmith** side: naming, messaging, and making technical ideas easy to read for mixed audiences.
 
 ---
 
 <div align="center">
 
-**Thanks for visiting.**
+**Thanks for visiting.** Star a repo if something was useful.
 
-If a project or snippet helped you, a **star** on the repo is appreciated.
-
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Sufyan009.Sufyan009&left_color=1a1b27&right_color=38bdae)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:1a1b27&height=90&section=footer&fontSize=0" alt="" width="100%" />
 
 </div>
