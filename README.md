@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:1e3a5f&height=125&section=header&text=Sufyan%20Ahmad&fontSize=36&fontColor=fff&fontAlignY=36&desc=AI%20%C2%B7%20Full-stack%20%C2%B7%20ML&descSize=14&descAlignY=54&descAlign=50" alt="" width="100%" />
-
-<br />
+# Sufyan Ahmad
 
 ### Software engineer and wordsmith — blending code with language for impact.
 
@@ -24,8 +22,6 @@ English (professional) · Urdu
 
 ---
 
-<img align="right" width="200" alt="Sufyan Ahmad — GitHub profile photo" src="https://github.com/Sufyan009.png" />
-
 ## At a glance
 
 | For **clients & hiring teams** | For **engineers & collaborators** |
@@ -37,16 +33,23 @@ English (professional) · Urdu
 
 <sub>Views and content here are **my own** and not necessarily those of my employer.</sub>
 
-<br clear="right" />
-
 ---
 
 ## Table of contents
 
-- [At a glance](#at-a-glance) · [How I work](#how-i-work-engineering--collaboration) · [What I build](#what-i-build-services--domains)
-- [Tech highlights](#quick-tech-signals) · [Focus areas](#what-i-work-on-detail) · [Full stack catalog](#tech-stack-full-catalog)
-- [Featured work](#featured-work) · [GitHub activity](#github-activity) · [Certifications](#certifications--credentials)
-- [Connect](#connect) · [Open source](#open-source--contributions) · [More about me](#a-little-more-about-me)
+- [At a glance](#at-a-glance)
+- [How I work (engineering & collaboration)](#how-i-work-engineering--collaboration)
+- [What I build (services & domains)](#what-i-build-services--domains)
+- [Quick tech signals](#quick-tech-signals)
+- [What I work on (detail)](#what-i-work-on-detail)
+- [Tech stack (full catalog)](#tech-stack-full-catalog)
+- [Featured work](#featured-work)
+- [GitHub activity](#github-activity)
+- [Certifications & credentials](#certifications--credentials)
+- [Currently exploring](#currently-exploring)
+- [Connect](#connect)
+- [Open source & contributions](#open-source--contributions)
+- [A little more about me](#a-little-more-about-me)
 
 ---
 
@@ -303,7 +306,5 @@ Open to **select collaborations**, **well-scoped consulting**, and **strong full
 <div align="center">
 
 **Thanks for visiting.** Star a repo if something was useful.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:1a1b27&height=90&section=footer&fontSize=0" alt="" width="100%" />
 
 </div>
