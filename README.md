@@ -7,19 +7,27 @@
 
 # Sufyan Ahmad
 
-### Software engineer and wordsmith — blending code with language for impact.
+> **Software engineer and wordsmith** — blending code with language for impact.
 
-*he/him* · Lahore, Pakistan · **PKT (UTC+5)** · [@Sufyan009](https://github.com/Sufyan009)
+<p align="center">
+  <em>he/him</em> · Lahore, Pakistan · <strong>PKT (UTC+5)</strong> · <a href="https://github.com/Sufyan009">@Sufyan009</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sufyanahmad.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sufyanahmad.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-ahmad-ai/)
-[![X](https://img.shields.io/badge/Follow-@sufianjellani-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sufianjellani)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sufianjellani@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-1a1b27?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf)
+<p align="center">
+  <a href="https://sufyanahmad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sufyan-ahmad-ai/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf"><img src="https://img.shields.io/badge/Resume-PDF-1a1b27?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume PDF" /></a>
+</p>
 
-**Full-Stack AI Engineer** — production ML, multi-agent RAG, and cloud-native web on **AWS** & **Azure**.
+<p align="center">
+  <a href="https://twitter.com/sufianjellani"><img src="https://img.shields.io/badge/X-@sufianjellani-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:Sufianjellani@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-English (professional) · Urdu
+<p align="center"><strong>Full-Stack AI Engineer</strong><br />
+Production ML, multi-agent RAG, and cloud-native web on <strong>AWS</strong> &amp; <strong>Azure</strong>.</p>
+
+<p align="center"><sub>English (professional) · Urdu</sub></p>
 
 </div>
 
@@ -27,18 +35,22 @@ English (professional) · Urdu
 
 ## At a glance
 
-| For **clients & hiring teams** | For **engineers & collaborators** |
-|-------------------------------|-----------------------------------|
-| I design and ship **reliable web products**, **data/ML workflows**, and **AI features** suited for **production** — with documentation and handover that match the code. | Stack: **Python / TypeScript**, **React & Next.js**, **FastAPI & Django**, **Azure & AWS**, plus **LLM/voice** tooling (RAG, agents, vector DBs, voice APIs). |
-| **Start here:** [Portfolio](https://sufyanahmad.vercel.app/) · [**Resume (PDF)**](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf) → then [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) or [email](mailto:Sufianjellani@gmail.com) with your goal and timeline. | **Start here:** open a focused **issue** or discussion on a repo; I’m open to collaborations with **clear scope**. |
+|  | **Clients & hiring** | **Engineers & collaborators** |
+|:--|:---------------------|:----------------------------|
+| **Summary** | I design and ship **reliable web products**, **data/ML workflows**, and **AI features** for **production** — with documentation and handover that match the code. | Stack: **Python / TypeScript**, **React & Next.js**, **FastAPI & Django**, **Azure & AWS**, plus **LLM / voice** (RAG, agents, vector DBs, voice APIs). |
+| **First step** | [Portfolio](https://sufyanahmad.vercel.app/) · [**Resume (PDF)**](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf) → [LinkedIn](https://www.linkedin.com/in/sufyan-ahmad-ai/) or [email](mailto:Sufianjellani@gmail.com) with goal and timeline. | Open a focused **issue** or discussion; I’m open to collaborations with **clear scope**. |
 
-**Organization:** Acme-one · **Location:** Lahore, Pakistan  
+**Organization:** Acme-one · **Location:** Lahore, Pakistan
 
-<sub>Views and content here are **my own** and not necessarily those of my employer.</sub>
+> [!NOTE]
+> Views and content here are **my own** and not necessarily those of my employer.
 
 ---
 
 ## Table of contents
+
+<details open>
+<summary><strong>Navigate</strong> — click to collapse</summary>
 
 - [At a glance](#at-a-glance)
 - [Experience & background](#experience--background)
@@ -55,6 +67,8 @@ English (professional) · Urdu
 - [Open source & contributions](#open-source--contributions)
 - [A little more about me](#a-little-more-about-me)
 
+</details>
+
 ---
 
 ## Experience & background
@@ -64,7 +78,7 @@ Full-stack AI engineer focused on **machine learning**, **cloud**, and **modern 
 ### Experience
 
 | Role | Organization | Period | Focus |
-|------|----------------|--------|--------|
+|:-----|:-------------|:-------|:------|
 | **AI Engineer** | Acme-one | Mar 2025 – Present | **AIIM ONE** (agentic platform: LangGraph RAG, Next.js, FastAPI, PostgreSQL, Qdrant), SaaS onboarding automation, **Talent-one** (Microsoft HR / screening), **Order Circle** (B2B support agents), **PreGrade Pro** (OpenCV + full stack) |
 | **Data Science Intern** | Devsinc | Sep 2024 – Dec 2024 | Deep learning pipelines — **BERT**, **GPT**, **GANs**, **RAG**, healthcare ML, recommenders, **Streamlit** |
 
@@ -81,20 +95,23 @@ CI/CD (**GitHub Actions**), **Vercel** / static hosting, **Docker**, **Graph** A
 
 ## How I work (engineering & collaboration)
 
-- **Clarity first** — requirements, trade-offs, and docs so the next person isn’t guessing.
-- **Production mindset** — security and privacy by design; no secrets in repos; sensible validation and errors.
-- **Performance awareness** — latency, cost, and UX, especially on **AI and data** paths.
-- **Accessible UI** — semantic HTML and keyboard-friendly patterns where I own the frontend.
-- **Honest scoping** — ship something solid rather than a fragile demo.
+| Principle | In practice |
+|:----------|:------------|
+| **Clarity first** | Requirements, trade-offs, and docs so the next person isn’t guessing. |
+| **Production mindset** | Security and privacy by design; no secrets in repos; sensible validation and errors. |
+| **Performance awareness** | Latency, cost, and UX — especially on **AI and data** paths. |
+| **Accessible UI** | Semantic HTML and keyboard-friendly patterns where I own the frontend. |
+| **Honest scoping** | Ship something solid rather than a fragile demo. |
 
-**Collaboration:** async-friendly (**PKT / UTC+5**). For serious inquiries, a short note with **goal**, **stack**, **timeline**, and any **constraints** (compliance, budget, etc.) gets the most useful reply.
+> [!TIP]
+> **Collaboration:** async-friendly (**PKT / UTC+5**). For serious inquiries, include **goal**, **stack**, **timeline**, and any **constraints** (compliance, budget, etc.) — that gets the fastest, most useful reply.
 
 ---
 
 ## What I build (services & domains)
 
 | Domain | What I deliver |
-|--------|----------------|
+|:-------|:---------------|
 | **Web applications** | SPAs and full-stack apps with **React**, **Next.js**, **TypeScript**, strong UX and SEO foundations. |
 | **APIs & backends** | **FastAPI**, **Django**, **Node.js** — REST/JSON APIs, auth-aware flows, databases and queues. |
 | **ML & data** | **PyTorch**, **TensorFlow**, **Scikit-learn**, **Pandas**, **MLflow**, **Power BI** — from exploration to repeatable workflows. |
@@ -108,6 +125,8 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 ---
 
 ## Quick tech signals
+
+<p align="center"><sub><strong>Core stack</strong> — languages, frameworks, cloud, data</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -126,7 +145,7 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 ## What I work on (detail)
 
 | Area | Focus |
-|------|--------|
+|:-----|:------|
 | **AI & LLMs** | LangChain, LangGraph, MCP, RAG, Qdrant |
 | **Voice** | Vapi, Retell AI, ElevenLabs |
 | **ML** | PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, Vertex AI, MLflow, OpenCV |
@@ -256,18 +275,19 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 **React**, **TypeScript**, **Vite**, **Tailwind CSS** — responsive UI, dark/light theme, SEO (meta + structured data), blog, certifications, contact flow, analytics hooks, performance-conscious build.
 
 | | |
-|--|--|
+|:--|:--|
 | **Live** | [sufyanahmad.vercel.app](https://sufyanahmad.vercel.app/) |
 | **Source** | [github.com/Sufyan009/Portfolio](https://github.com/Sufyan009/Portfolio) |
 
-Pin this repo on your profile (**Customize your pins**) so it appears above your contribution graph.
+> [!TIP]
+> Pin **Portfolio** on your GitHub profile (**Customize your pins**) so it shows above your contribution graph.
 
 ### Selected products & builds
 
-Same items as on [my portfolio Projects section](https://sufyanahmad.vercel.app/) — condensed for GitHub:
+Same items as on [my portfolio Projects section](https://sufyanahmad.vercel.app/#projects) — condensed for GitHub:
 
 | Project | Stack / theme | Link |
-|--------|----------------|------|
+|:--------|:--------------|:-----|
 | **AIIM ONE** | Agentic workflow platform — LangGraph RAG, Next.js, FastAPI, PostgreSQL, Qdrant, Gemini/GPT, Azure, Docker, GitHub Actions | [aiimone.com](https://www.aiimone.com/) |
 | **Hellodara.ai** | FYP Display Award — NLP CRM, Vue 3, Inertia, Laravel, MySQL, real-time messaging | [Portfolio — Projects](https://sufyanahmad.vercel.app/#projects) |
 | **SaaS onboarding** | Multi-tenant signup/login automation, admin dashboard, Next.js, FastAPI | [flowbot-jet.vercel.app](https://flowbot-jet.vercel.app/) |
@@ -283,8 +303,8 @@ More repos and demos: explore pinned repos and [github.com/Sufyan009](https://gi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufyan009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sufyan009 — GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sufyan009 — most used languages on GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufyan009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&ring_color=38bdae&title_color=ffffff&icon_color=38bdae" alt="Sufyan009 — GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=ffffff" alt="Sufyan009 — most used languages on GitHub" />
 
 <img src="https://streak-stats.demolab.com/?user=Sufyan009&theme=tokyonight&hide_border=true" alt="Sufyan009 — contribution streak" />
 
@@ -298,7 +318,10 @@ More repos and demos: explore pinned repos and [github.com/Sufyan009](https://gi
 
 ## Certifications & credentials
 
-Headline credentials (verify dates & IDs on the [certifications page](https://sufyanahmad.vercel.app/certifications)):
+> [!NOTE]
+> Always verify **dates** and **credential IDs** on the live [certifications page](https://sufyanahmad.vercel.app/certifications) — that page is the source of truth.
+
+**Headline credentials:**
 
 - **AWS Certified Machine Learning – Specialty** — Amazon Web Services  
 - **Google Cloud Professional Data Engineer** — Google Cloud  
@@ -313,9 +336,11 @@ Plus ongoing learning: **DeepLearning.AI**, **Google** data & PM foundations, **
 
 ## Currently exploring
 
-- **Agent** workflows and **evaluation** for production LLM systems  
-- **Voice** UX end-to-end (latency, tooling, telephony)  
-- **Observability** and **cost** discipline for AI services  
+| Direction | Why it matters |
+|:----------|:---------------|
+| **Agents & evals** | Production LLM systems need measurable quality, not only demos. |
+| **Voice UX** | Latency, tooling, and telephony for real users. |
+| **Observability & cost** | AI services fail in the wild without both. |
 
 ---
 
@@ -326,7 +351,7 @@ Plus ongoing learning: **DeepLearning.AI**, **Google** data & PM foundations, **
 Typical response time for serious inquiries: **within 24 hours** (PKT).
 
 | Channel | Link |
-|---------|------|
+|:--------|:-----|
 | **Portfolio** | https://sufyanahmad.vercel.app/ |
 | **Resume** | [Sufyan-Ahmad.pdf](https://sufyanahmad.vercel.app/Sufyan-Ahmad.pdf) |
 | **LinkedIn** | https://www.linkedin.com/in/sufyan-ahmad-ai/ |
@@ -337,7 +362,7 @@ Typical response time for serious inquiries: **within 24 hours** (PKT).
 <summary><strong>Elsewhere (personal)</strong></summary>
 
 | Platform | Link |
-|----------|------|
+|:---------|:-----|
 | **Facebook** | https://www.facebook.com/sj.rana6 |
 | **Instagram** | https://www.instagram.com/sj_rana_/ |
 
@@ -349,9 +374,11 @@ Open to **select collaborations**, **well-scoped consulting**, and **strong full
 
 ## Open source & contributions
 
-- **Issues & PRs:** welcome when scope is clear; include **expected vs actual behavior**, **reproduction steps**, and **environment** if relevant.  
-- **Security:** do **not** disclose vulnerabilities in public issues — use **email** instead.  
-- **Style:** follow the repo; run **lint** / **tests** before larger PRs when available.
+| Topic | Guideline |
+|:------|:----------|
+| **Issues & PRs** | Welcome when scope is clear — include **expected vs actual**, **repro steps**, and **environment**. |
+| **Security** | Do **not** disclose vulnerabilities in public issues; use **email** instead. |
+| **Style** | Match the repo; run **lint** / **tests** before larger PRs when available. |
 
 ---
 
@@ -364,6 +391,11 @@ Open to **select collaborations**, **well-scoped consulting**, and **strong full
 
 <div align="center">
 
-**Thanks for visiting.** Star a repo if something was useful.
+---
+
+**Thanks for visiting.**  
+If a project or snippet helped you, a **star** on the repo is appreciated.
+
+<sub>Profile README · <a href="https://github.com/Sufyan009">@Sufyan009</a></sub>
 
 </div>
