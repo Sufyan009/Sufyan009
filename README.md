@@ -276,7 +276,7 @@ Not sure your fit is listed? Reach out anyway — I take work where impact and s
 
 | | |
 |:--|:--|
-| **Live** | [sufyanahmad.vercel.app](https://sufyanahmad.vercel.app/) |
+| **Live** | [sufyanahmad.com](https://www.sufyanahmad.com//) |
 | **Source** | [github.com/Sufyan009/Portfolio](https://github.com/Sufyan009/Portfolio) |
 
 > [!TIP]
